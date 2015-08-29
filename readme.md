@@ -61,7 +61,7 @@
         <td>8</td>
         <td></td>
         <td>ALT+LEFT ARROW</td>
-        <td>Place cursor to the beginnig of line</td>
+        <td>Place cursor to the end of line</td>
     </tr>
     <tr>
         <td>9</td>
@@ -86,5 +86,11 @@
         <td></td>
         <td>CTRL+H</td>
         <td>Search and Replace</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td></td>
+        <td>CTRL+D</td>
+        <td>Duplicate Line</td>
     </tr>
 </table>
