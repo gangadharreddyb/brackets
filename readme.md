@@ -129,4 +129,10 @@
         <td>CTRL+SHIFT+ENTER</td>
         <td>Place cursor to the beginning of previous line</td>
     </tr>
+    <tr>
+        <td>20</td>
+        <td></td>
+        <td>CTRL+ALT+O</td>
+        <td>Open file/folder</td>
+    </tr>
 </table>
