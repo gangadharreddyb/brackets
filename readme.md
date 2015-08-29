@@ -61,13 +61,13 @@
         <td>8</td>
         <td></td>
         <td>ALT+LEFT ARROW</td>
-        <td>Place cursor to the end of line</td>
+        <td>Place cursor to the beginnig of line</td>
     </tr>
     <tr>
         <td>9</td>
         <td></td>
         <td>ALT+RIGHT ARROW</td>
-        <td>Place cursor to the beginning of the line</td>
+        <td>Place cursor to the end of the line</td>
     </tr>
     <tr>
         <td>10</td>
