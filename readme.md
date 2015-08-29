@@ -24,7 +24,7 @@
     <tr>
         <td>2</td>
         <td></td>
-        <td>CTRL+SHIFT+D</td>
+        <td>CTRL+X</td>
         <td>Delete Line</td>
     </tr>
     <tr>
