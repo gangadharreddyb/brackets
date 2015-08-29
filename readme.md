@@ -93,4 +93,40 @@
         <td>CTRL+D</td>
         <td>Duplicate Line</td>
     </tr>
+     <tr>
+        <td>14</td>
+        <td></td>
+        <td>CTRL+SHIFT+/</td>
+        <td>Block comment(select multiple lines)</td>
+    </tr>
+     <tr>
+        <td>15</td>
+        <td></td>
+        <td>CTRL+/</td>
+        <td>Single-line comment</td>
+    </tr>
+     <tr>
+        <td>16</td>
+        <td></td>
+        <td>CTRL+N</td>
+        <td>New File</td>
+    </tr>
+     <tr>
+        <td>17</td>
+        <td></td>
+        <td>CTRL+W</td>
+        <td>Close current open file</td>
+    </tr>
+     <tr>
+        <td>18</td>
+        <td></td>
+        <td>CTRL+ENTER</td>
+        <td>Place cursor to the beginning of next line</td>
+    </tr>
+     <tr>
+        <td>19</td>
+        <td></td>
+        <td>CTRL+SHIFT+ENTER</td>
+        <td>Place cursor to the beginning of previous line</td>
+    </tr>
 </table>
